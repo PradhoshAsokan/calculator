@@ -10,7 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color: #222831;
-    font-family: sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
 }
 .calculator{
     width: 300px;
